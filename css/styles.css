@@ -96,7 +96,7 @@ body {
 }
 
 .gallery img{
-	width: 230px;
+	width: 220px;
 	padding: 5px;
 	filter: grayscale(60%);
 	transition: 0.5s;
